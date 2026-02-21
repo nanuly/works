@@ -1,0 +1,20 @@
+# Site settings
+title: Nanuly Works
+description: Portfolio and works showcase by Nanuly
+author: Nanuly
+email: contact@nanuly.org
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# GitHub Pages settings
+baseurl: ""
+url: "https://nanuly.github.io"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
